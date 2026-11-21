@@ -1,4 +1,0 @@
-pip install pyinstaller
-zel
-pyinataller --onefile --name "TM" main.py
-  
